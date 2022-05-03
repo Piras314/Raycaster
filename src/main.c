@@ -1,3 +1,5 @@
+// Programmed by Piboy314 aka CMDR-Piboy314
+
 #include <stdio.h>
 #include <stdlib.h>
 
